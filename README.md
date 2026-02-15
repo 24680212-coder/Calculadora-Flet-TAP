@@ -11,11 +11,17 @@ Este repositorio contiene el código fuente de una interfaz de calculadora bási
 2. Instala la librería necesaria:
 En mi caso, Git bash
    3.Ahora deberás crear una carpeta donde vas a trabajar a partir de ahora.
+   
    Se va adescargar flet usando el siguiente código dentro de la carpeta creada:
+   
    pip install flet
+   
    4.Una vez descargado usaremos los siguientes códigos:
+   
    source .venv/Scripts/activate
+   
    5.Ejecutar el código:
+   
    python main.py
    
 🔍 Explicación Paso a Paso
