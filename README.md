@@ -27,9 +27,10 @@ Paso 3: La Cuadrícula (Grid). Se prepara un espacio que divide el contenido en 
 
 Paso 4: Agregar los Botones. Usamos el comando .append para ir "metiendo" los botones de colores dentro de la cuadrícula. 
 
-* Paso 5 y 6: Organización y Ejecución. Se apilan los elementos (pantalla arriba, botones abajo) y se le dice a Python que muestre todo en la ventana.
+Paso 5 y 6: Organización y Ejecución. Se apilan los elementos (pantalla arriba, botones abajo) y se le dice a Python que muestre todo en la ventana.
   
 Aquí te dejó el código completo para ejecutarlo de acuerdo a los pasos anteriores:
+
 
 import flet as ft
 
@@ -78,9 +79,9 @@ def main(page: ft.Page):
     # 6. Cargar elementos en la página
     page.add(layout_principal)
     page.update()
-
-# 7. Ejecución de la App
+    # 7. Ejecución de la App
 ft.app(target=main)
+
 
 Una vez tengas todo. deberías de tener algo como esto:
 
