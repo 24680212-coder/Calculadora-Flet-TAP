@@ -80,7 +80,7 @@ def main(page: ft.Page):
     page.add(layout_principal)
     page.update()
     # 7. Ejecución de la App
-ft.app(target=main)
+    ft.app(target=main)
 
 
 Una vez tengas todo. deberías de tener algo como esto:
