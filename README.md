@@ -7,9 +7,12 @@ Este repositorio contiene el código fuente de una interfaz de calculadora bási
 * **Framework:** [Flet](https://flet.dev/) (basado en Flutter)
 
 ## 🚀 Cómo ejecutar el proyecto
-1. Asegúrate de tener Python instalado.
-2. Instala la librería necesaria:
-En mi caso, Git bash
+   1. Asegúrate de tener Python instalado.
+      
+   2. Instala la librería necesaria:
+      
+   En mi caso, Git bash
+
    3.Ahora deberás crear una carpeta donde vas a trabajar a partir de ahora.
    
    Se va adescargar flet usando el siguiente código dentro de la carpeta creada:
