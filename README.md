@@ -9,7 +9,7 @@ Este repositorio contiene el código fuente de una interfaz de calculadora bási
 ## 🚀 Cómo ejecutar el proyecto
    1. Asegúrate de tener Python instalado.
       
-   2. Instala la librería necesaria:
+2. Instala la librería necesaria:
       
    En mi caso, Git bash
 
