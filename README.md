@@ -9,13 +9,13 @@ Este repositorio contiene el código fuente de una interfaz de calculadora bási
 ## 🚀 Cómo ejecutar el proyecto
 1. Asegúrate de tener Python instalado.
 3. Instala la librería necesaria:
-   ```Git bash
-   Ahora deberás crear una carpeta donde vas a trabajar a partir de ahora.
-   Se va adescargar flet usando el siguiente código dentro de la carpeta creada:
+En mi caso, Git bash
+3.Ahora deberás crear una carpeta donde vas a trabajar a partir de ahora.
+Se va adescargar flet usando el siguiente código dentro de la carpeta creada:
    pip install flet
-   Una vez descargado usaremos los siguientes códigos:
+4.Una vez descargado usaremos los siguientes códigos:
    source .venv/Scripts/activate
-   Ejecutar el código:
+5.Ejecutar el código:
    python main.py
    
 🔍 Explicación Paso a Paso
@@ -32,9 +32,9 @@ Paso 5 y 6: Organización y Ejecución. Se apilan los elementos (pantalla arriba
 Aquí te dejó el código completo para ejecutarlo de acuerdo a los pasos anteriores:
 
 
-import flet as ft
+    import flet as ft
 
-def main(page: ft.Page):
+    def main(page: ft.Page):
     # 1. Configuración de la ventana
     page.title = "Calculadora TAP"
     page.window_width = 250
@@ -83,6 +83,6 @@ def main(page: ft.Page):
     ft.app(target=main)
 
 
-Una vez tengas todo. deberías de tener algo como esto:
+Una vez tengas todo, deberías de tener algo como esto:
 
 <img width="535" height="687" alt="Captura de pantalla 2026-02-14 212643" src="https://github.com/user-attachments/assets/e533866d-e458-40c9-8824-ce7b6e75370e" />
